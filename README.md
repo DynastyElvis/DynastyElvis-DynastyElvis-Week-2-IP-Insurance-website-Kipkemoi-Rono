@@ -23,7 +23,7 @@ PROJECT TITTLE - Week 2 ip
 
 project author - kipkemoi rono elvis
 
-this is a simple poject of a burger house called burge palace with contacts, orders. prices , deliverries etc
+this is a simple poject of an insurance website
 
 MORINGA SCHOOL
 ACCESS PROGRAM
